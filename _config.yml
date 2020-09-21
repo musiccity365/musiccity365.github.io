@@ -1,11 +1,11 @@
 # Site settings
-author: Michael David Sackstein
-title: 
+author: Michael Sackstein
+title: Why Software Engineering?
 header-img: img/home-bg.png
 email: m_sackstein@yahoo.com
-copyright_name: Michael David Sackstein
+copyright_name: Michael Sackstein
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Well why not?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: mds2465
 github_username:  musiccity365
