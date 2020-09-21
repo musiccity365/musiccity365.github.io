@@ -5,7 +5,7 @@ date:       2020-09-21 15:48:09 -0400
 permalink:  why_software_development
 ---
 
-[https://medium.com/@mds2465/why-software-development-2e6adc19fb42](http://)
+[Why Software Development?](https://medium.com/@mds2465/why-software-development-2e6adc19fb42)
 
 Welcome to my very first blog post as a student of this new cohort in the online section of the Flatiron School's software engineering program. I would like to start this blog post by telling you all why on earth I decided in my early 30s to pursue a career in software development.  
 
